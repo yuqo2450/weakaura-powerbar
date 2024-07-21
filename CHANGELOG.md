@@ -34,3 +34,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 [v1.1.0]: https://github.com/yuqo2450/wow_wa_cloudburst/compare/v1.1.0
 [v10.2.0]: https://github.com/yuqo2450/wow_wa_cloudburst/compare/v1.1.0...v10.2.0
+[v10.2.7]: https://github.com/yuqo2450/wow_wa_cloudburst/compare/v10.2.0...v10.2.7
